@@ -57,3 +57,8 @@ Se quiser conversar sobre freelas, ideias ou parcerias:
 📧 robsoncrul009@gmail.com
 
 💼 LinkedIn: https://www.linkedin.com/in/robsoncrul/
+
+Link para o projeto no Vercel:
+
+🪮
+https://projeto-barbearia-five-sooty.vercel.app/
