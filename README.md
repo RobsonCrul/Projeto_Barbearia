@@ -4,6 +4,11 @@ Seja bem-vindo ao Dev Barbearia, um projeto responsivo e moderno criado com foco
 
 Este é um site de barbearia desenvolvido em HTML, CSS (SASS) e JavaScript, com animações suaves utilizando a biblioteca AOS (Animate On Scroll) e ícones da Font Awesome. A proposta é simular uma landing page profissional para negócios locais que desejam marcar presença digital com estilo.
 
+Link para o projeto no Vercel:
+
+🪮
+https://projeto-barbearia-five-sooty.vercel.app/
+
 🚀 Funcionalidades:
 
 Interface moderna e responsiva 💻📱.
@@ -58,7 +63,4 @@ Se quiser conversar sobre freelas, ideias ou parcerias:
 
 💼 LinkedIn: https://www.linkedin.com/in/robsoncrul/
 
-Link para o projeto no Vercel:
 
-🪮
-https://projeto-barbearia-five-sooty.vercel.app/
